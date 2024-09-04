@@ -15,10 +15,6 @@ I'm **Oliver Grainge**, a researcher and engineer passionate about **machine int
 - **Open-source AI projects** related to computer vision and neural network optimization.
 - **Research collaborations** focused on AI applications in embedded systems.
 
-### 💬 Ask me about:
-- Efficient AI architectures (quantized networks, model pruning).
-- Robotics and **ROS-based** navigation systems.
-- Training neural networks using **PyTorch** and **TensorFlow**.
 
 ### 📫 How to reach me:
 - Email: [oliver@grainge.me](mailto:oliver@grainge.me)
